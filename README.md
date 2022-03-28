@@ -1,5 +1,5 @@
 # Jeppy's PickaxeVault
-Here is a collection of all of the swapped Default Pickaxe paks I could make/find. (Essentially, free pickaxes for 5.10-8.30)
+Here is a collection of all of the swapped Default Pickaxe paks I could make/find. (Essentially, free pickaxes for 3.5-8.30)
 If you have one that is not in the repository, dm me at Jeppy#3076.
 
 Instructions: Download the .pak file in the folder of the pickaxe you want.
